@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Offic Calculator</string>
+    <string name="enter_man_power">Enter Man Power :</string>
+    <string name="enter_smv">Enter SMV :</string>
+    <string name="enter_output">Enter Output :</string>
+    <string name="enter_working_hour">Enter Working Hour :</string>
+</resources>
